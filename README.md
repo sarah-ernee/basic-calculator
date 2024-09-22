@@ -1,5 +1,6 @@
 # React Calculator
 Basic calculator for addition, subtraction, multiplication and division of (positive and negative) integers as well as float points.
+Deployed using Vercel.
 
 ## Cloning & Navigation
 1. Run `npm install` to install necessary dependencies.
